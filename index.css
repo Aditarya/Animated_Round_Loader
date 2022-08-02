@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: blueviolet;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
 .circular-loader {
     height: 190px;
     width: 190px;
-    border: 5px solid red;
+    border: 5px solid ghostwhite;
     border-radius: 50%;
     border-top: #000;
     animation: circular-loader 2s linear infinite;
